@@ -1,1 +1,4 @@
-console.log("js file")
+setTimeOut(function(){
+	console.log("js file");
+},600)
+
