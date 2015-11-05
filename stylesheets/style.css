@@ -338,7 +338,7 @@ h3 {
 .ico-rocket,
 .ico-flag,
 .twitter-ico {
-    background: url(../images/sprite_my.png) no-repeat 0 0;
+    background: url(http://images.cnblogs.com/cnblogs_com/dereksunok/752136/o_sprite_my.png) no-repeat 0 0;
 }
 .dark {
     color: #2b414d;
@@ -423,7 +423,7 @@ footer .social li {
     right: 0;
     height: 250px;
     bottom: 0;
-    background: url(../images/footer.jpg) no-repeat 50% 0;
+    background: url(http://images.cnblogs.com/cnblogs_com/dereksunok/752136/o_footer.jpg) no-repeat 50% 0;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
